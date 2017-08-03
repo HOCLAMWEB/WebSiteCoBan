@@ -44,3 +44,59 @@ CSS:
 text-transform: capitalize;
 }
 </div>
+
+<div class="form dang ki thong tin"><h2>form đăng kí thông tin </h2>
+<div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="qodef-custom-font-holder" style="font-family: sans-serif;font-size: 22px;font-weight: 700;text-align: center;color: #000000" data-font-size="22">
+	Liên hệ với chúng tôi</div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			            <div class="block_price login-devnet">
+                <form action="" method="post" class="form_price">
+                    <div style="display:none" class="notification_popup"></div>
+                    <input type="hidden" class="goto" name="goto" value="">
+                    <div class="block_rm">
+                        <div class="group-from">
+                            <input type="hidden" class="name_rm" name="name_rm" value="Liên hệ với chúng tôi 0đ">
+                            <input type="hidden" class="price_rm" name="price_rm" value="0">
+                            <input type="hidden" class="commission_rm" name="commission_rm" value="">
+                            <input type="hidden" class="bonus_rm" name="bonus_rm" value="">
+                            <div class="panel-default">
+                                <div class="block-rm">
+                                    <div class="rm-form-group">
+                                        <input required="" type="text" name="fullname_rm" value="" placeholder="Họ và tên:" class="rm-form-control fullname_rm">
+                                    </div>
+                                    <div class="rm-form-group">
+                                        <input required="" type="email" name="email_rm" value="" placeholder="E-Mail:" class="rm-form-control email_rm">
+                                    </div>
+                                    <div class="rm-form-group">
+                                        <input required="" type="number" name="phone_rm" value="" placeholder="Số điện thoại:" class="rm-form-control phone_rm">
+                                    </div>
+                                    <div class="rm-form-group">
+                                        <input required="" type="text" name="address_rm" value="" placeholder="Địa chỉ:" class="rm-form-control address_rm">
+                                    </div>
+                                    <div class="rm-form-group">
+                                        <textarea type="text" name="note_rm" placeholder="Ghi chú:" class="rm-form-control note_rm"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="order-btn">
+                                <input type="submit" name="purchase_rm" value="Đăng ký" class="btn order-price order_btn">
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <style>
+                .block_rm{padding: 10px}
+                .order-price{background-color: #52b400; color: #ffffff;font-weight: 700;}
+                .order-btn{text-align: center;}
+                .btn.order-price.order_btn{ background-color: #f1c110;
+                color: black; }
+            </style>
+        
+
+		</div>
+	</div>
+</div></div>
+</div>
