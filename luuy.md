@@ -117,3 +117,7 @@ inherit	Inherits this property from its parent element. Read about inherit
 <h4> cách làm form liên hệ để gửi đến email </h4>
 https://thachpham.com/wordpress/wp-plugin/contact-form-7-tao-form-chuyen-nghiep.html
 
+<h3> smtp </h3>
+https://thachpham.com/wordpress/wordpress-tutorials/smtp-gmail-wordpress.html
+
+
