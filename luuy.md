@@ -100,3 +100,14 @@ text-transform: capitalize;
 	</div>
 </div></div>
 </div>
+
+<div>
+	<h4> các loại text căn lề </h4>
+	left	Aligns the text to the left	
+right	Aligns the text to the right	
+center	Centers the text	
+justify	:cân đều 2 bên vd |bxbgkfsdgbd|	
+initial	Sets this property to its default value. Read about initial	
+inherit	Inherits this property from its parent element. Read about inherit	
+</div>
+
