@@ -110,4 +110,11 @@ justify	:cân đều 2 bên vd |bxbgkfsdgbd|
 initial	Sets this property to its default value. Read about initial	
 inherit	Inherits this property from its parent element. Read about inherit	
 </div>
+<div>
+	<h3> font chữ chuẩn</h3>
+	body{
+    font-size: 13px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+</div>
 
