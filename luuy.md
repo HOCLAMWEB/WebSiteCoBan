@@ -94,10 +94,6 @@ text-transform: capitalize;
                 .btn.order-price.order_btn{ background-color: #f1c110;
                 color: black; }
             </style>
-        
-
-		</div>
-	</div>
 </div></div>
 </div>
 
