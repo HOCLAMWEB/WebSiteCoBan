@@ -120,4 +120,10 @@ https://thachpham.com/wordpress/wp-plugin/contact-form-7-tao-form-chuyen-nghiep.
 <h3> smtp </h3>
 https://thachpham.com/wordpress/wordpress-tutorials/smtp-gmail-wordpress.html
 
+<h4> plugin sao chép trang web </h4>
+duplicator
+cài đặt plugin đó vào trang web càn copy
+............. sau đó sẽ sinh ra 2 file tải về
+vào xam tạo thư mục rồi bỏ 2 trong đó 
+tiếp tục tạo database ..........
 
