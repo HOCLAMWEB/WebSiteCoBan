@@ -129,3 +129,7 @@ tiếp tục tạo database ..........
 
 <h2> link lấy ifram fanpage fb</h2>
 https://developers.facebook.com/docs/plugins/page-plugin
+
+
+<h2> plugin dịch </h2>
+Loco Translate
