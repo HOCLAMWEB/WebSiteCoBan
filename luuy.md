@@ -127,3 +127,5 @@ cài đặt plugin đó vào trang web càn copy
 vào xam tạo thư mục rồi bỏ 2 trong đó 
 tiếp tục tạo database ..........
 
+<h2> link lấy ifram fanpage fb</h2>
+https://developers.facebook.com/docs/plugins/page-plugin
