@@ -141,3 +141,15 @@ https://developers.facebook.com/docs/plugins/page-plugin
 <h2> plugin dịch </h2>
 Loco Translate
 <h3> SUBIZ</h3>
+
+TEN O TRONG KHUNG
+<label> 
+    [text* your-name placeholder'Họ và Tên'] </label>
+
+<label> 
+    [email* your-email placeholder 'email'] </label>
+
+<label>
+    [textarea your-message placeholder'Nội Dung'] </label>
+<div class="lienhegui">
+[submit "GỬI"]</div>
