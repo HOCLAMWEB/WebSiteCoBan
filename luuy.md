@@ -125,12 +125,14 @@ POST:465;
 USER:EMAIL
 PASS: MÃ BẢO MẬT 2 LỚP CỦA EMAIL
 
-<h4> plugin sao chép trang web </h4>
+<h2> plugin sao chép trang web </h2>
 duplicator
 cài đặt plugin đó vào trang web càn copy
 ............. sau đó sẽ sinh ra 2 file tải về
 vào xam tạo thư mục rồi bỏ 2 trong đó 
 tiếp tục tạo database ..........
+xóa file đã dup từ trang khác vào tool 
+còn dup bản mới thì vào package
 
 <h2> link lấy ifram fanpage fb</h2>
 https://developers.facebook.com/docs/plugins/page-plugin
