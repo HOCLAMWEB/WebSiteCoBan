@@ -120,6 +120,11 @@ https://thachpham.com/wordpress/wp-plugin/contact-form-7-tao-form-chuyen-nghiep.
 <h3> smtp </h3>
 https://thachpham.com/wordpress/wordpress-tutorials/smtp-gmail-wordpress.html
 
+HOST:smtp.gmail.com
+POST:465;
+USER:EMAIL
+PASS: MÃ BẢO MẬT 2 LỚP CỦA EMAIL
+
 <h4> plugin sao chép trang web </h4>
 duplicator
 cài đặt plugin đó vào trang web càn copy
@@ -133,3 +138,4 @@ https://developers.facebook.com/docs/plugins/page-plugin
 
 <h2> plugin dịch </h2>
 Loco Translate
+<h3> SUBIZ</h3>
