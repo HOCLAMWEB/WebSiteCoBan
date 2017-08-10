@@ -1,0 +1,11 @@
+<div class="formlienhe">
+<h3 class="lienhevoi" >LIÊN H? V?I CHÚNG TÔI</h3>
+<div class="form-group"><input required="" type="text" name="fullname_rm" value="" placeholder="H? và tên:" class="rm-form-control fullname_rm"></div>
+<div class="form-group"><input required="" type="email" name="email_rm" value="" placeholder="E-Mail:" class="rm-form-control email_rm"></div>
+<div class="form-group"><input required="" type="number" name="phone_rm" value="" placeholder="S? di?n tho?i:" class="rm-form-control phone_rm"></div>
+<div class="form-group"><input required="" type="text" name="address_rm" value="" placeholder="Ð?a ch?:" class="rm-form-control address_rm"></div>
+<div class="form-group"><textarea type="text" name="note_rm" placeholder="Ghi chú:" class="rm-form-control note_rm"></textarea></p>
+<div class="form-group" id="dangki"><input type="submit" name="purchase_rm" value="Ðang ký" class="dangki"></div>
+<style>.form-group{margin-bottom: 10px;}#dangki{text-align: center;}input.dangki{ background-color:#f1c110;color: black;}.lienhevoi{color: #f1c110;}</p>
+</style>
+</div>
