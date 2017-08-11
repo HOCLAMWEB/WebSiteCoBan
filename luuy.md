@@ -158,4 +158,7 @@ TEN O TRONG KHUNG
 /domains/mixushop.vn/public_html/wp-content/themes/bignet/woocommerce/cart/cart.php
 <h3>sửa chữ view card<h3>
 /domains/mixushop.vn/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php
-
+<h2  sủa chữa continue shopping</h2>
+C:\xampp\htdocs\huyen\wp-content\themes\flatsome\woocommerce\cart\continue-shopping.php:
+<h2> sửa chữ proceed to chckout</h2>
+C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\cart\proceed-to-checkout-button.php:
