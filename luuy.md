@@ -153,3 +153,9 @@ TEN O TRONG KHUNG
     [textarea your-message placeholder'Nội Dung'] </label>
 <div class="lienhegui">
 [submit "GỬI"]</div>
+
+<h3> sửa chữ UPDATE CART<h3>
+/domains/mixushop.vn/public_html/wp-content/themes/bignet/woocommerce/cart/cart.php
+<h3>sửa chữ view card<h3>
+/domains/mixushop.vn/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php
+
