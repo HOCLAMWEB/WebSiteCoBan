@@ -162,3 +162,4 @@ TEN O TRONG KHUNG
 C:\xampp\htdocs\huyen\wp-content\themes\flatsome\woocommerce\cart\continue-shopping.php:
 <h2> sửa chữ proceed to chckout</h2>
 C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\cart\proceed-to-checkout-button.php:
+C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\checkout\form-coupon.php:
