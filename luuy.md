@@ -163,3 +163,6 @@ C:\xampp\htdocs\huyen\wp-content\themes\flatsome\woocommerce\cart\continue-shopp
 <h2> sửa chữ proceed to chckout</h2>
 C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\cart\proceed-to-checkout-button.php:
 C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\checkout\form-coupon.php:
+
+<h3> plugin hieenr thị title và hình ảnh khi share  lên facebook</h3>
+<strong> yoast seo </strong>
