@@ -166,3 +166,5 @@ C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\checkout\form-cou
 
 <h3> plugin hieenr thị title và hình ảnh khi share  lên facebook</h3>
 <strong> yoast seo </strong>
+<h2> boder </h2>
+https://www.w3schools.com/css/css_border.asp
