@@ -168,3 +168,6 @@ C:\xampp\htdocs\huyen\wp-content\plugins\woocommerce\templates\checkout\form-cou
 <strong> yoast seo </strong>
 <h2> boder </h2>
 https://www.w3schools.com/css/css_border.asp
+<h2> z-index </h2>
+thuộc tính chia tầng.tưởng tượng như trong không gian đa chiều.
+-1... là nằm ở dưới :0 là 2 thành phần cùng nằm chung một mặt phẳng  :+1... là thành phần mình đang css đó 
